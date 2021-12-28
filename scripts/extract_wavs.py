@@ -1,7 +1,7 @@
 import os
 from shutil import copyfile
 
-data_dir = '/home/dai/Project/emotions/data/IEMOCAP_full_release'
+data_dir = '/git/datasets/IEMOCAP_full_release'
 target_wav_dir = '/home/dai/Project/emotions/data/iemocap_wavs'
 eval_dir = '/home/dai/Project/emotions/ser_nn_spectrogram/RelativeNet/eval_txts'
 
